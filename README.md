@@ -8,6 +8,7 @@ Este repositório contém funções e exemplos que podem ser utilizados em futur
 - 📆 Funções de conversão envolvendo data e hora
 - 🔘 Componente de radioButton compatível com Android e IOS
 - 🚨 Funções de notificação local (expo-notifications)
+- ✨ Header Customizado
 
 ## 👨‍💻 Autora
 
